@@ -25,7 +25,7 @@ const App = () => {
         </Typography>
         <img
           className={classes.image}
-          src={memories} 
+          src={memories}
           alt="memories"
           height="60"
         />
@@ -33,6 +33,7 @@ const App = () => {
       <Grow in>
         <Container>
           <Grid
+            className={classes.mainContainer}
             container
             justifyContent="space-between"
             alignItems="stretch"
