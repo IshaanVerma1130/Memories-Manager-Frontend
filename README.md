@@ -12,4 +12,4 @@
 4. Material-UI
 5. MongoDB
 
-##### Backend deployed on https://github.com/IshaanVerma1130/Memories-Manager-Backend
+##### Backend repo: https://github.com/IshaanVerma1130/Memories-Manager-Backend
